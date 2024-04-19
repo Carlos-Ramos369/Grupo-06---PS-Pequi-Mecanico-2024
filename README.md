@@ -22,7 +22,7 @@
   - [Exemplos de Acelerômetros com uma breve explicação](https://br.omega.com/prodinfo/acelerometros.html)
 - Sensores IMU (Inertial Measurement Unit)
   - Usado como uma associação de acelerômetros, giroscópios e, em algumas situações, magnetômetros que nos fornece dados sobre a força, a taxa angular e, quando necessário, a orientação de algum corpo
-  - [Exemplo de IMU](https://br.mouser.com/ProductDetail/Bosch-Sensortec/BMI323?qs=By6Nw2ByBD3%2FE1v0UqNQPQ%3D%3D&mgh=1&utm_id=17633168520&gad_source=1&gclid=CjwKCAjwrIixBhBbEiwACEqDJdpPptJf0BNvFEzeMwDuA-E1k5jZRfggf3BkLWTc5XdBnxdUY6XRPBoChzAQAvD_BwE)
+  - [Exemplo de IMU](https://www.easytronics.com.br/mpu6050-acelerometro-e-giroscopio-de-3-eixos#:~:text=O%20MPU6050%20é%20baseado%20em,de%20processamento%20do%20controlador%20principal.)
   - [Explicação sobre IMU](https://www2.decom.ufop.br/imobilis/sensores-imu-uma-abordagem-completa-parte-1/)
   - [Video IMU](https://www.youtube.com/watch?v=yqFfmwVufMo)
 > Para auxiliar nosso entendimento em relação à parte Lógica e como usar tudo isso em conjunto
